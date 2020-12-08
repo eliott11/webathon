@@ -4,7 +4,7 @@
     margin-left: 10px;
 }
 
-p, h1 {
+p, h1, h2 {
     color: #707070;
 }
 .accueil-title-a-b {
@@ -46,7 +46,7 @@ p, h1 {
 }
 
 
-/*---------------------------------- CSS Cassandre ----------------------------*/
+/*---------------------------------- CSS Cassandre page Contact ----------------------------*/
 
 .contenu{
     display: flex;
@@ -75,4 +75,33 @@ h2{
 .link{
 width: 50%;
 padding: 10%;
+}
+
+/*---------------------------------- CSS Cassandre page Case studies ----------------------------*/
+.projects{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.projects .p1{
+    width: 30%;
+    border-radius: 20px;
+}
+.projects .p2{
+    width: 30%;
+    border-radius: 20px;
+}
+.projects .p3{
+    width: 30%;
+    border-radius: 20px;
+}
+.button{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 21%;
+}
+span{
+    color: #87B6A7;
+    font-size: 70px;
 }

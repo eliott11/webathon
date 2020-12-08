@@ -1,7 +1,11 @@
 <?php include 'header.php'; ?>
 
     <body>
-        <img src="IMG/logo-vert.png" class="img-logo-vert">
+        <div></div>
+            <img src="IMG/logo-vert.png" class="img-logo-vert">
+            
+        </div>
+
         <div class="accueil-title-a">
             <h1 class="accueil-title-a-b">PARROT</h1>
         </div>
