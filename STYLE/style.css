@@ -21,3 +21,32 @@
     font-size: 30px;
     margin-left: 20%;
 }
+/*Contact*/
+.contenu{
+    display: flex;
+}
+.touch{
+width: 50%;
+padding: 10%;
+}
+.touch h1{
+    font-family: 'Arbutus Slab', serif;
+    color: #87B6A7;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    font-family: 'Arbutus Slab', serif;
+}
+.social i{
+    color: #936F9B;
+    padding: 5px;
+}
+.mail i{
+    color: #936F9B;
+}
+.link{
+width: 50%;
+padding: 10%;
+}
