@@ -1,3 +1,12 @@
+.img-logo-vert {
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+p, h1 {
+    color: #707070;
+}
 .accueil-title-a-b {
     font-family: Hatch;
     font-size: 150px;
@@ -5,7 +14,7 @@
 
 .accueil-title-a {
     vertical-align: middle;
-    margin-top: 45vh;
+    margin-top: 40vh;
     margin-left: 25%;
     transform: translateY(-40%);
 }
@@ -20,4 +29,50 @@
     font-family: Poppins;
     font-size: 30px;
     margin-left: 20%;
+}
+
+.accueil-subtitle2 {
+    font-family: Poppins;
+    font-size: 70px;
+    margin-top: 250px;
+    margin-left: 20%;
+}
+
+.accueil-text {
+    font-family: Poppins;
+    font-size: 30px;
+    text-align: center !important ;
+    max-width: 400px;
+}
+
+
+/*---------------------------------- CSS Cassandre ----------------------------*/
+
+.contenu{
+    display: flex;
+}
+.touch{
+width: 50%;
+padding: 10%;
+}
+.touch h1{
+    font-family: 'Arbutus Slab', serif;
+    color: #87B6A7;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    font-family: 'Arbutus Slab', serif;
+}
+.social i{
+    color: #936F9B;
+    padding: 5px;
+}
+.mail i{
+    color: #936F9B;
+}
+.link{
+width: 50%;
+padding: 10%;
 }
