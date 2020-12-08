@@ -60,7 +60,7 @@ p, h1, h2 {
 }
 
 .text-box {
-    margin: auto;
+    margin: 0 auto;
     text-align: center;
 }
 
