@@ -27,9 +27,7 @@
 
         <div>
             <p class="accueil-subtitle2">French digital design agency based in Paris</p>
-        </div>
-        <div>
-            <p class="accueil-text" align="center">Parrot Agency is creative online, web and mobile software development company. Our office is based in Paris. 
+            <p class="accueil-text">Parrot Agency is creative online, web and mobile software development company. Our office is based in Paris. 
                 Our company offers services like design website, development and visual identity.</p>
         </div>
     </body>
