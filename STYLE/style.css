@@ -1,0 +1,23 @@
+.accueil-title-a-b {
+    font-family: Hatch;
+    font-size: 150px;
+}
+
+.accueil-title-a {
+    vertical-align: middle;
+    margin-top: 45vh;
+    margin-left: 25%;
+    transform: translateY(-40%);
+}
+
+.accueil-title-b {
+    vertical-align: middle;
+    margin-left: 50%;
+    transform: translateY(-60%);
+}
+
+.accueil-subtitle {
+    font-family: Poppins;
+    font-size: 30px;
+    margin-left: 20%;
+}
