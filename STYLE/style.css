@@ -45,6 +45,14 @@ p, h1, h2 {
     max-width: 400px;
 }
 
+.logo-menu {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
 
 /*---------------------------------- CSS Cassandre page Contact ----------------------------*/
 
@@ -107,4 +115,23 @@ padding: 10%;
 span{
     color: #87B6A7;
     font-size: 70px;
+}
+
+/*---------------------------------- CSS Cassandre page Menu ----------------------------*/
+.menuLink{
+    width: max-content;
+    margin: 0 auto;
+    margin-top:100px;
+}
+.menuLink a{
+    text-decoration: none;
+    color: black;
+}
+.menuLink a:hover{
+    text-decoration: none;
+    color: black;
+}
+.menuLink h1{
+    font-size: 100px;
+    font-family: 'Arbutus Slab', serif;
 }

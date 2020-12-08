@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
     <body>
+
         <div>
             <!----- image top left ------>
             <img src="IMG/logo-vert.png" class="img-logo-vert">
@@ -14,16 +15,11 @@
                 </g>
             </svg>
         </div>
-        
-        <div class="projects">
-            <img src="IMG/p1.jpg" alt="p1" class="p1">
-            <img src="IMG/p2.jpg" alt="p2" class="p2">
-            <img src="IMG/p3.jpg" alt="p3" class="p3">
-        </div>
-        <br>
-        <div class="button">
-            <span>&#8592;</span>
-            <span>&#8594;</span>
+
+        <div class="menuLink">
+            <h1><a href="index.php">The Company</a></h1>
+            <h1><a href="case-studies.php">Cases Studies</a></h1>
+            <h1><a href="contact.php">Contact</a></h1>
         </div>
     </body>
 
